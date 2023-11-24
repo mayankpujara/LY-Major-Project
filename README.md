@@ -24,10 +24,10 @@ Before using this code, you should have the following installed:
    ```sh
    git clone https://github.com/mayankpujara/LY-Major-Project.git
 2. Dataset and Resources
-### ASL Dataset:
+ASL Dataset:
 - Download the ASL dataset used for training the model from ASL Dataset on Kaggle.
 - Ensure the dataset is structured and stored according to the project's requirements.
-### Kaggle API (if downloading from Kaggle):
+Kaggle API (if downloading from Kaggle):
 Obtain a Kaggle API key and configure it for downloading datasets using the Kaggle API.
 
 ## DataSet: 
