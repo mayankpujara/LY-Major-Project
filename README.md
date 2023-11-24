@@ -10,14 +10,14 @@ The goal of HandsOn Connect is to develop a user-friendly web application using 
 - Data preprocessing scripts using Pandas, NumPy, Matplotlib, and Seaborn.
 - Data augmentation, splitting, and preparation scripts.
 
-### Prerequisites
+## Prerequisites
 
 Before using this code, you should have the following installed:
 
 - Python (>=3.7)
 - Jupyter Notebook (optional, but recommended)
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
